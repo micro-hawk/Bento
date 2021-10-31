@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Ugnes',
+  name: 'MicroHawk',
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -89,7 +89,7 @@ const CONFIG = {
     firstList: [
       {
         name: 'LinkedIn',
-        link: 'https://www.linkedin.com/',
+        link: 'https://www.linkedin.com/in/microhawk',
       },
       {
         name: 'WhatsApp',
@@ -98,10 +98,6 @@ const CONFIG = {
       {
         name: 'Amazon',
         link: 'https://www.amazon.in/',
-      },
-      {
-        name: 'SofaScore',
-        link: 'https://www.sofascore.com/',
       },
     ],
     secondList: [
