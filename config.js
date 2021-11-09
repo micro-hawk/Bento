@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'MicroHawk',
+  name: 'Doooo',
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
